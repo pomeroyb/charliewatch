@@ -1,3 +1,11 @@
+ChuckWatch
+-----
+This is a version of [OSResearch's excellent CharlieWatch](https://github.com/osresearch/charliewatch) with a bit more functionality. It adds an [LIS3DH](https://www.st.com/content/ccc/resource/technical/document/datasheet/3c/ae/50/85/d6/b1/46/fe/CD00274221.pdf/files/CD00274221.pdf/jcr:content/translations/en.CD00274221.pdf) accelerometer. This will eventually allow the watch to respond to taps, opening up possibilities for interaction and setting of time.
+
+
+Original README
+------
+
 ![Watch rendering](watch.png)
 
 "Analog" watch with 60+12 Charlieplexed LEDs. Based on Travis Goodspeed's
